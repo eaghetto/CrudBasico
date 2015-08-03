@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudEntitiesBasic", "CrudEntitiesBasic\CrudEntitiesBasic.csproj", "{1B3C3AA3-EB1B-4CCD-BEE9-CF5B18391872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRulesLib", "BusinessRulesLib\BusinessRulesLib.csproj", "{934252ED-D9A2-4B38-BB6C-2D1B930AEC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLib", "DataAccessLib\DataAccessLib.csproj", "{F72056ED-F1B8-414D-B082-1E1F613FBEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B3C3AA3-EB1B-4CCD-BEE9-CF5B18391872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3C3AA3-EB1B-4CCD-BEE9-CF5B18391872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3C3AA3-EB1B-4CCD-BEE9-CF5B18391872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3C3AA3-EB1B-4CCD-BEE9-CF5B18391872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934252ED-D9A2-4B38-BB6C-2D1B930AEC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934252ED-D9A2-4B38-BB6C-2D1B930AEC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934252ED-D9A2-4B38-BB6C-2D1B930AEC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934252ED-D9A2-4B38-BB6C-2D1B930AEC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72056ED-F1B8-414D-B082-1E1F613FBEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72056ED-F1B8-414D-B082-1E1F613FBEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72056ED-F1B8-414D-B082-1E1F613FBEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72056ED-F1B8-414D-B082-1E1F613FBEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
